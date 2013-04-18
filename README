@@ -1,0 +1,1 @@
+This is a sample java application which demonstrates the Singleton,Factory,Iterator design patterns. Only one instance of store can be created and based on user input the appropriate object(shoestore/bookstore) is returned
